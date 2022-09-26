@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Book-of-Recipes/static/css/main.c1606000.css",
-    "main.js": "/Book-of-Recipes/static/js/main.3fb86c83.js",
+    "main.css": "/Book-of-Recipes/static/css/main.407002c6.css",
+    "main.js": "/Book-of-Recipes/static/js/main.df212c7a.js",
     "index.html": "/Book-of-Recipes/index.html",
-    "main.c1606000.css.map": "/Book-of-Recipes/static/css/main.c1606000.css.map",
-    "main.3fb86c83.js.map": "/Book-of-Recipes/static/js/main.3fb86c83.js.map"
+    "main.407002c6.css.map": "/Book-of-Recipes/static/css/main.407002c6.css.map",
+    "main.df212c7a.js.map": "/Book-of-Recipes/static/js/main.df212c7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1606000.css",
-    "static/js/main.3fb86c83.js"
+    "static/css/main.407002c6.css",
+    "static/js/main.df212c7a.js"
   ]
 }
