@@ -36,12 +36,9 @@ nav {
   flex-grow: 1;
 }
 
-.links {
-  width: 250px;
-  display: flex;
-  justify-content: space-between;
-  margin-right: 30px;
+.menu {
   font-size: 20px;
+  margin-right: 5rem;
 }
 
 img,
@@ -52,4 +49,9 @@ iframe {
 iframe {
   width: 600px;
   height: 350px;
+}
+
+.home {
+  margin-right: 1rem;
+  font-size: 20px;
 }

@@ -4,13 +4,11 @@ import { Link } from 'react-router-dom'
 export const Header = () => {
     return (
         <nav>
-            <div className="nav-wrapper  pink darken-3">
-                <h1 className="brand-logo center" style={{marginTop: '15px'}} >Book of Recipes</h1>
-                <div className='links right' >
-                    <Link to='/'> Home </Link>
-                    <Link to='/about'> About </Link>
-                    <Link to='/contact'> Contact </Link>
-                </div>
+            <div className="nav-wrapper teal lighten-1 " >
+                <span className="brand-logo center"> Recipes </span>
+                <ul id="nav-mobile" className="right">
+                    <Link className='home' to='/' >Home </Link>
+                </ul>
             </div>
         </nav>
     )
