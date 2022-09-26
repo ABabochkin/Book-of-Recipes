@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  padding: 0 1 rem;
+}
+
+.content {
+  min-height: calc (100vh - 70px);
+  padding: 1.5rem 0;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-content {
+  flex-grow: 1;
+}
+
+.links {
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+img,
+iframe {
+  max-width: 100%;
+}
+
+iframe {
+  width: 600px;
+  height: 350px;
+}
